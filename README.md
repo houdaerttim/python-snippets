@@ -9,8 +9,9 @@
 
 ### gitignore 
 #### Mac - .DS_Store files
-    'rm --cached -f .DS_Store'
-    'echo .DS_Store >> .gitignore'
-
-`rm --cached -f .DS_Store`
-`echo .DS_Store >> .gitignore`
+rm --cached -f .DS_Store
+echo .DS_Store >> .gitignore
+```
+rm --cached -f .DS_Store
+echo .DS_Store >> .gitignore
+```
