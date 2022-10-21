@@ -14,6 +14,6 @@ rm --cached -f .DS_Store
 echo .DS_Store >> .gitignore
 ```
 
-`rm -r` 
+`rm -r`  
 `code`
-`code no br``
+`code no br`
